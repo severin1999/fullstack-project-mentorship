@@ -1,0 +1,22 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+body {
+    background: linear-gradient(to right, #00416a 0%, #e4e5e6 100%);
+}
+
+.container {
+    padding-top: 25px;
+}
+
+.nav-wrapper {
+    padding: 0 25px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    margin-top: 25px;
+}
